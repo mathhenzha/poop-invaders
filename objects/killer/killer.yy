@@ -1,8 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Derpy",
-  "eventList": [],
+  "name": "killer",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -27,10 +29,10 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
+  "solid": false,
   "spriteId": {
-    "name": "spr_derpy",
-    "path": "sprites/spr_derpy/spr_derpy.yy",
+    "name": "spikey",
+    "path": "sprites/spikey/spikey.yy",
   },
   "spriteMaskId": null,
   "visible": true,

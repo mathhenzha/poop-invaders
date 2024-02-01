@@ -1,3 +1,16 @@
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 3FD4F0AA
+/// @DnDArgument : "var" "wait"
+wait = 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 39605F89
+/// @DnDArgument : "expr" "80"
+/// @DnDArgument : "var" "life"
+life = 80;
+
 /// @DnDAction : YoYo Games.Paths.Start_Path
 /// @DnDVersion : 1.1
 /// @DnDHash : 61E9324F

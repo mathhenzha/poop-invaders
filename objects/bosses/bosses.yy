@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Derpy",
+  "name": "bosses",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -27,11 +27,8 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
-  "spriteId": {
-    "name": "spr_derpy",
-    "path": "sprites/spr_derpy/spr_derpy.yy",
-  },
+  "solid": false,
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
