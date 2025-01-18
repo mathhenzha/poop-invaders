@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Enemies",
-    "path": "folders/Objects/Enemies.yy",
+    "name": "Basic enemies",
+    "path": "folders/Objects/Enemies/Basic enemies.yy",
   },
   "parentObjectId": {
     "name": "AbstractEnemy",
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "spr_derpy",
-    "path": "sprites/spr_derpy/spr_derpy.yy",
+    "name": "spr_Derpy",
+    "path": "sprites/spr_Derpy/spr_Derpy.yy",
   },
   "spriteMaskId": null,
   "visible": true,

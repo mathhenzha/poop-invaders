@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spr_ferpy",
+  "name": "spr_Ferpy",
   "bbox_bottom": 203,
   "bbox_left": 48,
   "bbox_right": 195,
@@ -26,14 +26,14 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Enemy sprites",
+    "path": "folders/Sprites/Enemy sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "spr_ferpy",
+    "name": "spr_Ferpy",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -55,8 +55,8 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"317e6eca-a8fd-4574-9320-80fe89996927","path":"sprites/spr_ferpy/spr_ferpy.yy",},},},"Disabled":false,"id":"80d67c09-973a-427f-b03f-4ed84fa6fd9b","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"9b2ebd51-715b-475e-8d6a-17989b735d79","path":"sprites/spr_ferpy/spr_ferpy.yy",},},},"Disabled":false,"id":"932e71a4-fe79-4802-94da-6e12f78edfe6","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"317e6eca-a8fd-4574-9320-80fe89996927","path":"sprites/spr_Ferpy/spr_Ferpy.yy",},},},"Disabled":false,"id":"80d67c09-973a-427f-b03f-4ed84fa6fd9b","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"9b2ebd51-715b-475e-8d6a-17989b735d79","path":"sprites/spr_Ferpy/spr_Ferpy.yy",},},},"Disabled":false,"id":"932e71a4-fe79-4802-94da-6e12f78edfe6","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

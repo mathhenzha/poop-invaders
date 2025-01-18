@@ -5,4 +5,4 @@
 /// @DnDArgument : "ypos_relative" "1"
 /// @DnDArgument : "objectid" "thrower_bullet"
 /// @DnDSaveInfo : "objectid" "thrower_bullet"
-instance_create_layer(x + 0, y + 0, "Instances", thrower_bullet);
+instance_create_layer(x + 0, y + 0, "Instances", ThowerBullet);

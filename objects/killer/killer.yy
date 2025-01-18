@@ -1,15 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "killer",
+  "name": "Killer",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Enemies",
-    "path": "folders/Objects/Enemies.yy",
+    "name": "Basic enemies",
+    "path": "folders/Objects/Enemies/Basic enemies.yy",
   },
   "parentObjectId": {
     "name": "AbstractEnemy",
@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spikey",
-    "path": "sprites/spikey/spikey.yy",
+    "name": "spr_Killer",
+    "path": "sprites/spr_Killer/spr_Killer.yy",
   },
   "spriteMaskId": null,
   "visible": true,

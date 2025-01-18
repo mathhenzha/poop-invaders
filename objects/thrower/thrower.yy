@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "thrower",
+  "name": "Thrower",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"AbstractPlayerBullet","path":"objects/AbstractPlayerBullet/AbstractPlayerBullet.yy",},"eventNum":0,"eventType":4,"isDnD":true,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":17,"eventType":9,"isDnD":true,},
@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Enemies",
-    "path": "folders/Objects/Enemies.yy",
+    "name": "Basic enemies",
+    "path": "folders/Objects/Enemies/Basic enemies.yy",
   },
   "parentObjectId": {
     "name": "AbstractEnemy",
@@ -34,8 +34,8 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "throwerSprite",
-    "path": "sprites/throwerSprite/throwerSprite.yy",
+    "name": "spr_Thrower",
+    "path": "sprites/spr_Thrower/spr_Thrower.yy",
   },
   "spriteMaskId": null,
   "visible": true,

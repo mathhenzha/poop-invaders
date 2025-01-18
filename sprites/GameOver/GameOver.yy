@@ -4,7 +4,7 @@
   "name": "GameOver",
   "bbox_bottom": 479,
   "bbox_left": 0,
-  "bbox_right": 851,
+  "bbox_right": 841,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Other",
+    "path": "folders/Sprites/Other.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 852,
+  "width": 842,
 }
